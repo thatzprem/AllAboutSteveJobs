@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>playName</key>
+		<string>Inspirations</string>
+		<key>quotations</key>
+		<array>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>2</integer>
+				<key>character</key>
+				<string>Death</string>
+				<key>quotation</key>
+				<string>Even when you&apos;re dying, you have to make sure you continue living
+
+Read more: http://www.businessinsider.com/best-steve-jobs-quotes-from-biography-2011-10?op=1#ixzz21jaChW00</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>3</integer>
+				<key>character</key>
+				<string>Religion</string>
+				<key>quotation</key>
+				<string>The juice goes out of Christianity when it becomes too based on faith rather than living like Jesus or seeing the world as Jesus saw it.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>2</integer>
+				<key>scene</key>
+				<integer>4</integer>
+				<key>character</key>
+				<string>Android</string>
+				<key>quotation</key>
+				<string>We put iTunes on Windows in order to sell more iPods. But I don’t see an advantage of putting our music app on Android, except to make Android users happy. And I don’t want to make Android users happy.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>2</integer>
+				<key>scene</key>
+				<integer>4</integer>
+				<key>character</key>
+				<string>Products</string>
+				<key>quotation</key>
+				<string>My job is to say when something sucks rather than sugarcoat it.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>On his $1 salary</string>
+				<key>quotation</key>
+				<string>I make 50 cents for showing up and the other 50 cents is based on performance.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Back at Apple</string>
+				<key>quotation</key>
+				<string>This company is in shambles, and I don&apos;t have time to wet-nurse the board. So I need all of you to resign. Or else I&apos;m going to resign and not come back on Monday.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Quality</string>
+				<key>quotation</key>
+				<string>A great carpenter isn’t going to use lousy wood for the back of a cabinet, even though nobody’s going to see it.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Microsoft</string>
+				<key>quotation</key>
+				<string>The only problem with Microsoft is they just have no taste, they have absolutely no taste. I don’t mean that in a small way. I mean that in a big way, in the sense that they don’t think of original ideas and they don’t bring much culture into their product.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>playName</key>
+		<string>Most Memorable</string>
+		<key>quotations</key>
+		<array>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Apple</string>
+				<key>quotation</key>
+				<string>The reason I went back to Apple is that I feel like the world would be a better place with Apple in it than not. And it’s hard to imagine the world without Apple now.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Philosophy</string>
+				<key>quotation</key>
+				<string>I’m just a guy who probably should have been a semi-talented poet on the Left Bank. I sort of got sidetracked here.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Creativity</string>
+				<key>quotation</key>
+				<string>It&apos;s really hard to design products by focus groups. A lot of times, people don&apos;t know what they want until you show it to them</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>2</integer>
+				<key>character</key>
+				<string>Competitors</string>
+				<key>quotation</key>
+				<string>I used to say that Apple should be the Sony of this business, but in reality, I think Apple should be the Apple of this business.
+I used to say that Apple should be the Sony of this business, but in reality, I think Apple should be the Apple of this business.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>2</integer>
+				<key>character</key>
+				<string>Lifestyle</string>
+				<key>quotation</key>
+				<string>
+I have a very simple life. I have my family and I have Apple and Pixar. And I don&apos;t do much else.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>2</integer>
+				<key>character</key>
+				<string>Technology</string>
+				<key>quotation</key>
+				<string>I&apos;ve always wanted to own and control the primary technology in everything we do.
+</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>2</integer>
+				<key>character</key>
+				<string>Technology</string>
+				<key>quotation</key>
+				<string>You go to your TV when you want to turn your brain off. You go to your computer when you want to turn your brain on. Those are not the same.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>2</integer>
+				<key>character</key>
+				<string>Early years</string>
+				<key>quotation</key>
+				<string>Getting fired from Apple was the best thing that could have ever happened to me. The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>2</integer>
+				<key>character</key>
+				<string>Early years</string>
+				<key>quotation</key>
+				<string>I know what it&apos;s like to have your private life painted in the worst possible light in front of a lot of people. I&apos;ve learned what it&apos;s like for everyone you meet after that to sort of have preconceptions about you... It&apos;s been a character-building experience.</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>playName</key>
+		<string>Remembering Steve</string>
+		<key>quotations</key>
+		<array>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Bill Gates, Microsoft Chairman</string>
+				<key>quotation</key>
+				<string>I&apos;m truly saddened to learn of Steve Jobs&apos; death. Melinda and I extend our sincere condolences to his family and friends, and to everyone Steve has touched through his work. Steve and I first met nearly 30 years ago, and have been colleagues, competitors and friends over the course of more than half our lives. The world rarely sees someone who has had the profound impact Steve has had, the effects of which will be felt for many generations to come. For those of us lucky enough to get to work with him, it&apos;s been an insanely great honor. I will miss Steve immensely.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>5</integer>
+				<key>character</key>
+				<string>Larry Page, Google CEO:</string>
+				<key>quotation</key>
+				<string>I am very, very sad to hear the news about Steve. He was a great man with incredible achievements and amazing brilliance. He always seemed to be able to say in very few words what you actually should have been thinking before you thought it. His focus on the user experience above all else has always been an inspiration to me. He was very kind to reach out to me as I became CEO of Google and spend time offering his advice and knowledge even though he was not at all well. My thoughts and Google&apos;s are with his family and the whole Apple family.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>3</integer>
+				<key>scene</key>
+				<integer>4</integer>
+				<key>character</key>
+				<string>Mark Zuckerberg, Facebook CEO</string>
+				<key>quotation</key>
+				<string>Steve, thank you for being a mentor and a friend. Thanks for showing that what you build can change the world. I will miss you</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Eugene Kaspersky, founder Kaspersky Lab</string>
+				<key>quotation</key>
+				<string>The man who invented the wheel didn&apos;t change the world...the man who got a stick and attached two wheels, he changed the world. Steve Jobs, he was the man with the stick</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Tim Cook, Apple CEO</string>
+				<key>quotation</key>
+				<string>Apple has lost a visionary and creative genius, and the world has lost an amazing human being.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>President Barack Obama</string>
+				<key>quotation</key>
+				<string>Steve was among the greatest of American innovators – brave enough to think differently, bold enough to believe he could change the world, and talented enough to do it.</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Arnold Schwarzenegger</string>
+				<key>quotation</key>
+				<string>Steve lived the California Dream every day of his life and he changed the world and inspired all of us. #ThankYouSteve</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>5</integer>
+				<key>scene</key>
+				<integer>1</integer>
+				<key>character</key>
+				<string>Jim Carrey, Actor </string>
+				<key>quotation</key>
+				<string>Steve Jobs was an amazing man. He will live in my hard drive forever</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
